@@ -5,7 +5,7 @@
 <%!
 	
 	String Account = "sa";
-	String Password = "";
+	String Password = "*******";
 	String DBname = "DB";
 	String Driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
 	String Url = "jdbc:sqlserver://140.119.19.35:1433;databaseName=" + DBname;
