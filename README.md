@@ -1,9 +1,9 @@
 # tomcat_jsp_mssql_rentalPlatform
-以tomcat為server，前端使用jsp再利用jdbc連線至ms sql資料庫所打造的租借平台
+以 tomcat 為 server，前端使用 jsp 再利用 jdbc 連線至 ms sql 資料庫所打造的租借平台
 
 ## 使用技術
-* JSP(動態邏輯部分使用Java,靜態介面使用Html)
-* tomcat做server
+* JSP (動態邏輯部分使用Java,靜態介面使用Html)
+* tomcat 做 server
 * 資料庫為 MS SQL，架置在遠端電腦上，因原電腦已汰換，所以資料不復存在
 * 利用jdbc連結前端與資料庫
 
